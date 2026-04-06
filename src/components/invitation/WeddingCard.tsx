@@ -36,7 +36,7 @@ export function WeddingCard() {
 
               <MotionBlock index={2} className="mx-auto mt-8 max-w-md">
                 <p className="font-[family-name:var(--font-body)] text-[0.95rem] italic leading-relaxed text-[#3d2914]/95">
-                  Request the honour of your presence at the marriage ceremony of their niece{" "}
+                  Request the honour of your presence at the marriage ceremony of their nephew{" "}
                   <span className="not-italic font-medium text-[#3d2914]">
                     (S/o SayyedMohammadhanif Mohaddinsaheb Kazi of Indi)
                   </span>
@@ -106,7 +106,7 @@ export function WeddingCard() {
                     <p className="font-[family-name:var(--font-serif)] text-lg font-semibold text-[#c2185b]">
                       Place of Marriage
                     </p>
-                    <p className="font-mono text-[0.7rem] text-[#6b5b4f] sm:text-xs">17.173693, 75.948518</p>
+                    <p className="font-mono text-[0.7rem] text-[#6b5b4f] sm:text-xs">15.828594, 75.649368</p>
                   </div>
                   <p className="mt-2 font-[family-name:var(--font-body)] text-[0.95rem] leading-relaxed text-[#3d2914]">
                     Shiva Parvati Kalyan Mantap, Hole-Alur
